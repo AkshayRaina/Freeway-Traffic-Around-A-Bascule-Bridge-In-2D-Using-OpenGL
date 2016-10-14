@@ -1,4 +1,4 @@
-# Freeway-Traffic-around-a-Bascule-Bridge-in-2D-Using-OpenGL
+# Freeway-Traffic-Around-A-Bascule-Bridge-In-2D-Using-OpenGL
 
 Institution: HKBK College of Engineering, Bangalore | Visvesvaraya Technological University, Karnataka
 
