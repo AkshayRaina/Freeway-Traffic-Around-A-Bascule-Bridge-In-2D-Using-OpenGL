@@ -11,6 +11,6 @@ Institution: HKBK College of Engineering, Bangalore | Visvesvaraya Technological
 • We have even provided keyboard interface to start, stop motion and to exit the window.
 • The overall methodology depends heavily on the underlying sciences of geometry, optics, and physics.
 
-Stack: C Graphics Library- GL/glut, C Standard Library, Computer Graphics Concepts- vetor graphics, 2D modeling, shaders, surface visualization with color mapping etc, Terminal, GNU Compiler (gcc)
+Stack: C Graphics Library- GL/glut, C Standard Library, Computer Graphics Concepts - Vector Graphics, 2D Modelling, Shaders, Surface Visualisation with color mapping etc, Terminal, GNU Compiler (gcc)
 
 Guide: Run the bb.c file on terminal using gcc compiler.
